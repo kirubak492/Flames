@@ -57,10 +57,5 @@ class Flames
              System.out.println(str);
              
          }
-         
-         
-         
-     }
-
-      
+    }
 }
