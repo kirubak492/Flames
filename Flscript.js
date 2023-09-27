@@ -11,9 +11,8 @@ if(arr2.length>1)
 {
     b=arr2[0]+arr2[1]
 }
-a=a.tolowerCase();
-b=b.tolowerCase();
-
+a=a.toLowerCase()
+b=b.toLowerCase()
 let x=a.length
 let y=b.length
 let count = 0;
