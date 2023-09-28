@@ -44,12 +44,9 @@ button {
     text-align: center;
 }
 #song{
-  position: relative;
-  margin-left: 560px;  
+  display: grid;
+  place-items: center;  
 }
 h1{
     color: pink;
-}
-audio{
-    margin-left: 50px;
 }
