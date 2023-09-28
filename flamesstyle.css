@@ -44,8 +44,8 @@ button {
     text-align: center;
 }
 #song{
-  display: grid;
-  place-items: center;  
+  display:grid;
+  place-items:center;
 }
 h1{
     color: pink;
